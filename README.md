@@ -196,5 +196,4 @@ This codebase is designed to be educational and extensible. Key areas for contri
 
 ##  License
 
-This project is created for educational purposes and demonstrates modern web development practices.#   N o d e - E d i t o r  
- 
+This project is created for educational purposes and demonstrates modern web development practices.
